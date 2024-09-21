@@ -25,7 +25,7 @@ I'm also have my specialisations in Database Systems and Computer Security :) <b
 - Python, Java, C#, Golang, JavaScript, Rust, C, C++
 
 ### Cloud & DevOps
-- AWS Lambda, AWS SageMaker, AWS EC2, API Gateway, S3, CloudWatch, Docker, Vagrant, GitLab CI/CD, Terraform
+- AWS Lambda, AWS SageMaker, AWS EC2, API Gateway, S3, CloudWatch, Docker, Vagrant, GitLab CI/CD, Terraform, Jira, BitBucket
 
 ### Frameworks & Libraries
 - React, JavaFX, WPF, Expo, .NET Core

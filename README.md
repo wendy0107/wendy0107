@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a final-year Computer Science student at the National University of Singapore, passionate about software development and building impactful technology solutions. <br>
 I particularly enjoy backend development but I'm learning more about data engineering and DevOps practices in my spare time! <br>
-I'm also have my specialisations in Database Systems and Computer Security :) <br>
+I also have my specialisations in Database Systems and Computer Security :) <br>
 
 ## 🔧 Technologies & Tools
 
